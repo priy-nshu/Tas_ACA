@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522132192419",
+    "project_id": "pda-messenger",
+    "storage_bucket": "pda-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522132192419:android:c74fdb6915cd5680205316",
+        "android_client_info": {
+          "package_name": "com.example.pda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl8bHkrB7yyu7pn57CqULO7MN5L4CNUfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
